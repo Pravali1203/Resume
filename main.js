@@ -21,7 +21,7 @@ career.textContent="Career Object :";
 career.appendChild(document.createElement("HR"));
 function career(){
 var cop=document.createElement("p");
-cop.textContent=pravali.co;
+cop.textContent=pravali;
 career.appendChild(cop);
 }
 right.appendChild(career);
