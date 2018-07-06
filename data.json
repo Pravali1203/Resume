@@ -1,0 +1,19 @@
+{
+  "co":"this is my strength",
+  "Achive":{
+    "details":"I won a 1st price in my school days"
+  },
+  "education":[{
+    "name":"b-tech",
+    "institute":"Completed my b-tech in Andhra loyola institute of engineering and technology with 75%"
+
+  },
+  {
+    "name":"intermediate",
+    "institute":"Completed my intermediate in Srichaitanya mahala junior college with 81.4%"
+  },
+    {
+    "name":"SSC:",
+    "institute":"Completed my schooling in Apple concept school with 8.2"
+  }]
+}
